@@ -1,0 +1,5 @@
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_userInterface\bin\Debug\C17_Ex05_XMixDrixLogic.dll.config
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_userInterface\bin\Debug\C17_Ex05_XMixDrixLogic.dll
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_userInterface\bin\Debug\C17_Ex05_XMixDrixLogic.pdb
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_userInterface\obj\x86\Debug\C17_Ex05_XMixDrixLogic.dll
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_userInterface\obj\x86\Debug\C17_Ex05_XMixDrixLogic.pdb

@@ -1,0 +1,15 @@
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_XMixDrixUI\bin\Debug\C17_Ex05_XMixDrixUI.exe.config
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_XMixDrixUI\bin\Debug\C17_Ex05_XMixDrixUI.exe
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_XMixDrixUI\bin\Debug\C17_Ex05_XMixDrixUI.pdb
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_XMixDrixUI\bin\Debug\C17_Ex05_XMixDrixLogic.dll
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_XMixDrixUI\bin\Debug\C17_Ex05_XMixDrixLogic.pdb
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_XMixDrixUI\obj\x86\Debug\C17_Ex05_XMixDrixUI.csprojResolveAssemblyReference.cache
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_XMixDrixUI\obj\x86\Debug\C17_Ex05_XMixDrixUI.BoardGame.resources
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_XMixDrixUI\obj\x86\Debug\C17_Ex05_XMixDrixUI.GameSettingsForm.resources
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_XMixDrixUI\obj\x86\Debug\C17_Ex05_XMixDrixUI.Properties.Resources.resources
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_XMixDrixUI\obj\x86\Debug\C17_Ex05_XMixDrixUI.csproj.GenerateResource.Cache
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_XMixDrixUI\obj\x86\Debug\C17_Ex05_XMixDrixUI.exe
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\C17 Ex05 NadavValotker 203546312 GalitGavrilov 311494777\C17_Ex05_XMixDrixUI\obj\x86\Debug\C17_Ex05_XMixDrixUI.pdb
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\Tic-Tac-Toe-Game\C17_Ex05_XMixDrixUI\bin\Debug\C17_Ex05_XMixDrixUI.exe.config
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\Tic-Tac-Toe-Game\C17_Ex05_XMixDrixUI\obj\x86\Debug\C17_Ex05_XMixDrixUI.exe
+C:\Users\Nadav\Desktop\פרוקיטים\איקס_עיגול\Tic-Tac-Toe-Game\C17_Ex05_XMixDrixUI\obj\x86\Debug\C17_Ex05_XMixDrixUI.pdb
